@@ -1,9 +1,9 @@
 # Django Twitter Clone by Shalini Kumari
 
-Fully functional Django App that looks ecxatly like real Twitter.
+Fully functional Twitter clone mad for web usig Django.
 
 Demo Image:
-![](TwitterDemo.png)
+![](Demo-Img.png)
 
 ## Setup
 
