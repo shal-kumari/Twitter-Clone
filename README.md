@@ -3,7 +3,7 @@
 Fully functional Twitter clone mad for web usig Django.
 
 Demo Image:
-![](Demo-Img.png)
+![](Demo-Img.PNG)
 
 ## Setup
 
