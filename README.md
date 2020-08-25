@@ -3,13 +3,13 @@
 Fully functional Twitter clone mad for web usig Django.
 
 Demo Image:
-![](Demo-Img.PNG)
+![](DemoPic.PNG)
 
 ## Setup
 
-1. Git Clone the project with: ```git clone https://github.com/redianmarku/Django-Twitter-Clone.git```.
+1. Git Clone the project with: ```git clone https://github.com/shal-kumari/Twitter-Clone.git```.
 
-2. Move to the base directory: ```cd Django-Twitter-Clone```
+2. Move to the base directory: ```cd Twitter-Clone```
 
 3. Create a new python enveronment with: ```python -m venv env```.
 
