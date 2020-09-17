@@ -1,6 +1,6 @@
 # Django Twitter Clone by Shalini Kumari
 
-Fully functional Twitter clone mad for web usig Django.
+Fully functional Twitter clone made for web using Django.
 
 Demo Image:
 ![](DemoPic.PNG)
